@@ -29,8 +29,3 @@ The token is the Discord application token, if you don't already have a Discord 
 
 The Discord channel is the ID of the text channel the bot should be linked with, the bot will only send and listen to messages in the channel defined in the config.
 
-## Credits
-
-
-[Mineflayer]([https://github.com/zt3h](https://github.com/PrismarineJS/mineflayer))
-[Discord.js]([https://github.com/SkyCryptWebsite](https://github.com/discordjs/discord.js/))
