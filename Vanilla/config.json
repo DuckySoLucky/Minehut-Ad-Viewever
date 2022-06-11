@@ -1,0 +1,16 @@
+{
+    "server": {
+        "host": "minehut.com",
+        "port": 25565
+    },
+    "minecraft": {
+        "username": "email@example.com",
+        "password": "PASSWORD",
+        "auth": "microsoft",
+        "server_name": "SERVER_NAME_MUST_BE_LOWERCASE"
+    },
+    "discord": {
+        "token": "DISCORD_TOKEN",
+        "channel": "CHANNEL_ID"
+    }
+}
